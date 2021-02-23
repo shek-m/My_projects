@@ -1,0 +1,4 @@
+package Strings_and_threads_Here_is_the_question_2201;
+
+public class StringForFirstThreadTooShortException extends RuntimeException {
+}
